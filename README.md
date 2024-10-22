@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alejndrotorres
+- 👀 I’m interested in mechanical/construction engineering
+- 🌱 I’m currently learning Python and C++
+- 📫 How to reach me: atorres1@sandiego.edu
